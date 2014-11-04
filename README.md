@@ -36,7 +36,7 @@ To work properly with rendering non-ASCII Unicode characters, a supplemental TeX
 
 In Ubuntu, all dependencies can be installed using:
 
-  	$ sudo apt-get install build-essential dvipng ocaml texlive-fonts-recommended texlive-lang-greek texlive-latex-recommended
+  	$ sudo apt-get install build-essential dvisvgm ocaml texlive-fonts-recommended texlive-lang-greek texlive-latex-recommended
 
 #### Mac
 
